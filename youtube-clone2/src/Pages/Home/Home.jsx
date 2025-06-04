@@ -1,7 +1,7 @@
 import "./Home.css"
 import Sidebar from "../../Components/Sidebar/Sidebar"
 import Feed from "../../Components/Feed/Feed"
-import React, {useState, useEffect} from "react"
+import {useState, useEffect} from "react"
 
 export default function Home({sidebar}) {
 
